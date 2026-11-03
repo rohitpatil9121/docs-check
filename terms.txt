@@ -1,0 +1,11 @@
+# Terminology list: wrong => right
+# Case-only fixes match exactly. All other entries ignore case.
+kubernetes => Kubernetes
+github => GitHub
+javascript => JavaScript
+e-mail => email
+log-in => sign in
+login to => sign in to
+click on => click
+utilize => use
+in order to => to
